@@ -23,7 +23,6 @@ The significance of this project lies in its ability to merge art and science, c
 
 ## Exhibition
 ![Overall installation](IMG_5189.jpg)
-![Detail_1](IMG_5182.JPG)
 ![Detail_2](IMG_5185.JPG)
 ![Detail_3](IMG_5186.JPG)
 ![Detail_3](IMG_5188.JPG)
