@@ -23,26 +23,36 @@ The significance of this project lies in its ability to merge art and science, c
 
 ## Exhibition
 
-<div style="display: flex; gap: 8px;">
-  <img src="IMG_5182.jpg" alt="Detail_1" width="400px">
+<!-- 第一张：Overall look（居中） -->
+<div style="display: flex; justify-content: center; margin-top: 16px;">
+  <img src="IMG_5182.JPG" alt="Overall installation" width="400px">
 </div>
+<p style="text-align: center; margin-top: 4px;">Overall look</p>
 
-<div style="display: flex; gap: 8px;">
-  <img src="IMG_5185.JPG" alt="Detail_1" width="200px">
-  <img src="IMG_5186.JPG" alt="Detail_2" width="200px">
-  <img src="IMG_5188.JPG" alt="Detail_3" width="200px">
+<!-- 第二行：Details（保持原来三张并排） -->
+<div style="display: flex; justify-content: center; gap: 8px; margin-top: 16px;">
+  <img src="IMG_5185.JPG" alt="Detail 1" width="200px">
+  <img src="IMG_5186.JPG" alt="Detail 2" width="200px">
+  <img src="IMG_5188.JPG" alt="Detail 3" width="200px">
 </div>
+<p style="text-align: center; margin-top: 4px;">Details</p>
 
-
-<div style="display: flex; gap: 8px;">
-  <img src="IMG_5192.jpg" alt="Detail_1" width="400px">
+<!-- 第三张：Explanation（居中） -->
+<div style="display: flex; justify-content: center; margin-top: 16px;">
+  <img src="IMG_5192.jpg" alt="Explanation" width="400px">
 </div>
+<p style="text-align: center; margin-top: 4px;">Explanation</p>
 
-<!-- 下面这段用 HTML5 video 来嵌入可播放视频 -->
-<video controls width="800">
-  <source src="IMG_5183_compressed.mp4" type="video/mp4">
-  您的浏览器不支持 video 标签。
-</video>
+<!-- 视频：Video demonstration -->
+<div style="display: flex; justify-content: center; margin-top: 16px;">
+  <video controls width="800">
+    <source src="IMG_5183_compressed.mp4" type="video/mp4">
+    您的浏览器不支持 video 标签。
+  </video>
+</div>
+<p style="text-align: center; margin-top: 4px;">Video demonstration</p>
+
+
 
 ## Timeline
 ### Winter Timeline
