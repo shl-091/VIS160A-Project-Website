@@ -22,7 +22,11 @@ By engaging audiences with interactive elements like removable puzzle pieces, dy
 The significance of this project lies in its ability to merge art and science, creating a space where audiences can explore critical environmental issues in an engaging and thought-provoking way. Wildfires are a growing global concern, particularly in regions like Southern California. By visualizing the factors contributing to wildfire risks, **Layers of Ash** not only educates but also fosters a deeper connection to the environment and highlights the importance of preventative action.
 
 ## Exhibition
-[To be added...]
+![Overall installation](IMG_5189.jpg)
+![Detail_1](IMG_5182.JPG)
+![Detail_2](IMG_5185.JPG)
+![Detail_3](IMG_5186.JPG)
+![Detail_3](IMG_5188.JPG)
 
 ## Timeline
 ### Winter Timeline
