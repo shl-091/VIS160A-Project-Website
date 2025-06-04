@@ -23,7 +23,9 @@ The significance of this project lies in its ability to merge art and science, c
 
 ## Exhibition
 
-![Overall](IMG_5192.jpg)
+<div style="display: flex; gap: 8px;">
+  <img src="IMG_5182.jpg" alt="Detail_1" width="400px">
+</div>
 
 <div style="display: flex; gap: 8px;">
   <img src="IMG_5185.JPG" alt="Detail_1" width="200px">
@@ -31,7 +33,10 @@ The significance of this project lies in its ability to merge art and science, c
   <img src="IMG_5188.JPG" alt="Detail_3" width="200px">
 </div>
 
-![Interpretation](IMG_5192.jpg)
+
+<div style="display: flex; gap: 8px;">
+  <img src="IMG_5192.jpg" alt="Detail_1" width="400px">
+</div>
 
 <!-- 下面这段用 HTML5 video 来嵌入可播放视频 -->
 <video controls width="800">
